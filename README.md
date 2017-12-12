@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-phpBB is a free open-source bulletin board written in PHP.
+phpBB is a free open-source bulletin board written in PHP. Modified by devs4p
 
 ## COMMUNITY
 
